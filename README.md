@@ -4,11 +4,11 @@
 
 **Projenin İçeriği:**
 
--Anasayfa,parçalar,enstrümanlar ve müzisyenler sekmelerinden oluşur.
+- Anasayfa,parçalar,enstrümanlar ve müzisyenler sekmelerinden oluşur.
 
--Giriş Yap/Üye Ol seçenekleri bulunur.
+- Giriş Yap/Üye Ol seçenekleri bulunur.
 
--Görüşlerin bildirildiği bölüm vardır
+- Görüşlerin bildirildiği bölüm vardır
 
 **Projede Kullanılanlar:**
 
