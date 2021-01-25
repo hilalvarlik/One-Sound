@@ -10,6 +10,3 @@
 
 - Görüşlerin bildirildiği bölüm vardır
 
-**Projede Kullanılanlar:**
-
--HTML, CSS, PHP, JavaScript
