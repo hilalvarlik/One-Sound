@@ -1,8 +1,8 @@
 ## Web Tabanlı Programlama ##
 
-**Projenin Konusu:** Klasik müzik ile ilgili bir internet sayfasıdır.
+Klasik müzik ile ilgili bir blog.
 
-**Projenin İçeriği:**
+**İçeriği:**
 
 - Anasayfa,parçalar,enstrümanlar ve müzisyenler sekmelerinden oluşur.
 
