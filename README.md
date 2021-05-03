@@ -1,5 +1,5 @@
 ## Web Tabanlı Programlama ##
-Klasik müzik severler için hem bilgi hem dinleti sağlayan web sitesi. Üye olup giriş yaptıktan sonra parçalar sekmesinden müzisyenlere ait müzikleri dinleyebilir enstrümanlar kısmından seçilen enstrüman hakkında bilgi alınabilir ve müzisyenler hakkında bilgi edinilebilir. Görüşlerin bildirildiği bölüm vardır.
+It is a website that provides both information and concert for classical music lovers. After being a member and logging in, you can listen to music belonging to musicians from the parts tab, you can get information about the selected instrument from the instruments section and get information about the musicians. There is a section where opinions are reported.
 
 ---
 ![image](https://user-images.githubusercontent.com/50299378/110519747-bb852800-811e-11eb-8c16-001fabf66510.png)
