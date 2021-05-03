@@ -1,4 +1,4 @@
-## Web Tabanlı Programlama ##
+## One Sound ##
 It is a website that provides both information and concert for classical music lovers. After being a member and logging in, you can listen to music belonging to musicians from the parts tab, you can get information about the selected instrument from the instruments section and get information about the musicians. There is a section where opinions are reported.
 
 ---
